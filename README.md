@@ -10,7 +10,7 @@
 
 ### 🌐 Socials:
 <p>
-  <a href="https://linkedin.com/in/muhammadnoor" target="_blank">
+  <a href="https://linkedin.com/in/muhammad noor" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
