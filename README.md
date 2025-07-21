@@ -4,7 +4,6 @@
 👯 I’m looking to collaborate on **FYP's and individual projects**  
 🤝 I’m looking for help with **mastering xAI**  
 👨‍💻 Ask me about GenAI
-
 ⚡ Fun fact: **I think I am geeky**  
 
 ---
@@ -12,12 +11,14 @@
 ### 🌐 Socials:
 <p>
   <a href="https://linkedin.com/in/muhammadnoor" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://instagram.com/woooffie" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
 </p>
+
 
 ---
 
@@ -44,5 +45,4 @@
 
 ### 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNoor7&layout=compact)  
-![Stats](https://github-readme-stats.vercel.app/api?username=MuhammadNoor7&show_icons=true&locale=en)  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNoor7)
