@@ -3,7 +3,7 @@
 🌱 I’m currently learning **MERN and its fundamentals**  
 👯 I’m looking to collaborate on **FYP's and individual projects**  
 🤝 I’m looking for help with **mastering xAI**  
-👨‍💻 Ask me about GenAI
+👨‍💻 Ask me about **GenAI**
 ⚡ Fun fact: **I think I am geeky**  
 
 ---
