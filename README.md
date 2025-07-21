@@ -3,11 +3,9 @@
 🌱 I’m currently learning **MERN and its fundamentals**  
 👯 I’m looking to collaborate on **FYP's and individual projects**  
 🤝 I’m looking for help with **mastering xAI**  
-👨‍💻 All of my projects are available at [github.com/MuhammadNoor7](https://github.com/MuhammadNoor7)  
-📫 How to reach me **mnoorulhaq10@gmail.com**  
-⚡ Fun fact: **I think I am geeky**  
+👨‍💻 Ask me about GenAI
 
-<h3 align="center">A aspiring Data Science Undergraduate.</h3>
+⚡ Fun fact: **I think I am geeky**  
 
 ---
 
