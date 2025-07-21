@@ -3,7 +3,7 @@
 🌱 I’m currently learning **MERN and its fundamentals**  
 👯 I’m looking to collaborate on **FYP's and individual projects**  
 🤝 I’m looking for help with **mastering xAI**  
-👨‍💻 Ask me about **GenAI**
+👨‍💻 Ask me about **GenAI**  
 ⚡ Fun fact: **I think I am geeky**  
 
 ---
@@ -44,5 +44,6 @@
 ---
 
 ### 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNoor7&layout=compact)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNoor7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNoor7&layout=compact&theme=dark)
+
+![Streak](https://streak-stats.demolab.com/?user=MuhammadNoor7&theme=dark)
