@@ -3,7 +3,7 @@
 🌱 I’m currently learning **MERN and its fundamentals**  
 👯 I’m looking to collaborate on **FYP's and individual projects**  
 🤝 I’m looking for help with **mastering xAI**  
-👨‍💻 Ask me about **GenAI**  
+👨‍💻 Ask me about **xAI, GenAI**  
 ⚡ Fun fact: **I think I am geeky**  
 
 ---
@@ -11,13 +11,14 @@
 ### 🌐 Socials:
 <p>
   <a href="https://linkedin.com/in/muhammadnoor" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/woooffie" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
+
 
 
 ---
