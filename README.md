@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Muhammad Noor</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Noor</h1>
 <h3 align="center">A aspiring Data Science Undergraduate.</h3>
 
 - 🌱 I’m currently learning **MERN and its fundamentals.**
