@@ -47,8 +47,7 @@
 ### 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNoor7&layout=compact&theme=highcontrast)
 
-<!-- your comment here -->![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadNoor7&theme=high-contrast)
-
+<!-- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadNoor7&theme=high-contrast)-->
 ![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadNoor7&theme=highcontrast&hide_border=true)
 
 
