@@ -1,7 +1,7 @@
 ## 🔄 HI THERE!
 
 🌱 I’m currently learning **ML and its fundamentals**  
-👯 I’m looking to collaborate on **FYP's and individual projects**  
+👯 I’m looking to collaborate on **and individual projects**  
 👨‍💻 Ask me about **xAI, GenAI**  
 ⚡ Fun fact: **I think I am geeky**  
 
